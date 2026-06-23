@@ -1,4 +1,4 @@
-# Statistical Fault Attack on AES
+# Statistical Fault Attack on AES-128
 
 ## Overview
 
